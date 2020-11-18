@@ -6,7 +6,8 @@ I also gave it a little personal touch;
 
 you can see what this looks like by cloning the repo in your machine and starting the server
 
-- `git clone ~repo#name#here~`
+- `git clone ~this.repo.here~`
+- `cd ~this.repo.here~`
 - `yarn start` or `npm start`
 
 ---
